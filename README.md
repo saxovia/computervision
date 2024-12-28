@@ -1,5 +1,5 @@
 # computervision
-Course material from A_lto University
+Course material from Aalto University
 
 ## Learning Outcomes
 
